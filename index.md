@@ -1,3 +1,3 @@
-# Welcome to my blog
+Welcome to my web development portfolio! 
 
-I'm glad you are here. I plan to talk about ...
+Take a look around :) 
