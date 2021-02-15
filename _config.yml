@@ -3,7 +3,7 @@ title: Web Development Portfolio
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Welcome to my web development portfolio. Feel free to take a look around :)
+Welcome to my web development portfolio. Feel free to take a look around!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
